@@ -39,3 +39,9 @@ This project recreates the nostalgic Snake Game in the browser. Players control 
    ```bash
    git clone https://github.com/velapoojitha/SnakeGame.git
    cd SnakeGame
+   ```
+
+## Project live link
+```
+https://velapoojitha.github.io/SnakeGame/
+```
